@@ -1,0 +1,38 @@
+body{
+    background-color: #088080;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 50px;
+}
+
+img{
+    width: 100px; height: 150px;
+}
+
+.libro{
+    display: flex; 
+    box-shadow: 0 0 27px 0 rgba(90, 82, 67, 0.62);  
+    flex-wrap: wrap;
+    margin: 20px;
+    float: left;
+    width: 25rem;
+    justify-content: center;
+    background-color: #ffffff;
+
+}
+
+
+h3{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
